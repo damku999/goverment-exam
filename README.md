@@ -1,5 +1,11 @@
 # Combined Syllabus for ICT Officer, Assistant Director (IT), and Deputy Director (IT)
 
+## Exam Advertisement Links
+
+- **[ICT Officer, Class-2, Science and Technology Department](https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2059&tab=Exam)**
+- **[Assistant Director (IT), Class-1, Science and Technology Department](https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2057&tab=Exam)**
+- **[Deputy Director (IT), Class-1, Science and Technology Department](https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2058&tab=Exam)**
+
 ## Part I: General Studies (Common for All Exams)
 
 ### **History & Culture**
@@ -128,8 +134,9 @@
 Below are the direct links to download the exam syllabus PDFs from the Git repository:
 
 - [ICT Officer, Class-II](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-110-202425.pdf)
-- [Assistant Director (IT, Class-I](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-108-202425.pdf)
-- [Deputy Director (IT, Class-I](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-109-202425.pdf)
+- [Assistant Director (IT, Class-I)](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-108-202425.pdf)
+- [Deputy Director (IT, Class-I)](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-109-202425.pdf)
+
 
 Click the links to access the respective syllabus documents.
 
