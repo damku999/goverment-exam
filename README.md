@@ -127,9 +127,9 @@
 
 Below are the direct links to download the exam syllabus PDFs from the Git repository:
 
-- [ICT Officer, Class-II](https://github.com/[your-repo](https://github.com/damku999/goverment-exam)/PDF/SLBR-110-202425.pdf)
-- [Assistant Director (IT), Class-I](https://github.com/[your-repo](https://github.com/damku999/goverment-exam)/PDF/SLBR-108-202425.pdf)
-- [Deputy Director (IT), Class-I](https://github.com/[your-repo](https://github.com/damku999/goverment-exam)/PDF/SLBR-109-202425.pdf)
+- [ICT Officer, Class-II](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-110-202425.pdf)
+- [Assistant Director (IT, Class-I](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-108-202425.pdf)
+- [Deputy Director (IT, Class-I](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-109-202425.pdf)
 
 Click the links to access the respective syllabus documents.
 
