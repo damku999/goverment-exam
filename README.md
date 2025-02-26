@@ -66,77 +66,65 @@
 ### **Current Affairs**
 - Regional, National, and International Events of Importance
 
-## Part II: Technical Subjects
+## Part II: Technical Subjects (Detailed)
 
 ### **1. Programming and Data Structures**
-- Programming in C
-- Recursion
-- Data Structures: Arrays, Stacks, Queues, Linked Lists, Trees, Graphs
+- Programming in C: Data types, Pointers, Memory allocation, Functions
+- Recursion: Concepts, Implementation, Examples
+- Data Structures: Arrays, Stacks, Queues, Linked Lists
+- Trees: Binary Trees, Binary Search Trees, AVL Trees, Heaps
+- Graphs: Representation, BFS, DFS, Minimum Spanning Trees
 
 ### **2. Discrete Mathematics**
-- Propositional and First-Order Logic
-- Sets, Relations, Functions, Lattices, Groups
-- Graph Theory: Connectivity, Matching, Coloring
-- Combinatorics: Counting, Recurrence Relations, Generating Functions
+- Propositional and First Order Logic
+- Sets, Relations, Functions, Partial Orders, Lattices
+- Groups, Graph Theory: Connectivity, Matching, Coloring
+- Combinatorics: Counting Principles, Recurrence Relations, Generating Functions
 
 ### **3. Algorithms**
-- Time and Space Complexity
-- Sorting, Searching, Hashing
-- Divide and Conquer, Greedy, Dynamic Programming
-- Graph Algorithms: BFS, DFS, Minimum Spanning Tree, Shortest Paths
+- Analysis of Algorithms: Asymptotic Notation, Space and Time Complexity
+- Divide and Conquer: Merge Sort, Quick Sort
+- Greedy Algorithms: Huffman Coding, Kruskal’s Algorithm
+- Dynamic Programming: Fibonacci, Longest Common Subsequence
+- Graph Algorithms: BFS, DFS, Dijkstra’s Algorithm, Bellman-Ford Algorithm
 
 ### **4. Databases**
-- Normalization, Indexing, Transactions, Concurrency Control
-- SQL & NoSQL Databases, CAP Theorem
+- Database Models: Relational, NoSQL, Hierarchical, Network
+- Integrity Constraints, Normal Forms
+- File Organization, Indexing: B and B+ Trees
+- Transaction Processing, Schedules, Concurrency Control
 
-### **5. Operating Systems & Hardware**
-- Process Management, Scheduling, Synchronization
-- Memory Management, Virtual Memory, File Systems
-- Deadlocks
+### **5. Hardware and Operating Systems**
+- Hardware Basics: CPU, Memory, Storage, Input-Output Devices
+- Operating System Concepts: Process Management, Threads
+- Inter-Process Communication, Concurrency, Synchronization
+- Deadlock, CPU Scheduling, Memory Management, Virtual Memory
+- File Systems, System Calls, Device Drivers
 
 ### **6. Computer Networks**
-- LAN, Ethernet, IPv4/IPv6, TCP/UDP, Routing Algorithms
-- Network Security: Authentication, Cryptography, Firewalls
+- Concept of Layering, OSI & TCP/IP Models
+- LAN Technologies (Ethernet, Wi-Fi, VLANs)
+- Flow and Error Control Techniques
+- Switching: Circuit, Packet, Virtual Circuit
+- IPv4/IPv6, Routing Algorithms: Distance Vector, Link State
+- Transport Layer: TCP, UDP, Sockets, Congestion Control
+- Application Layer Protocols: DNS, SMTP, POP, FTP, HTTP
+- Network Security: Authentication, Cryptography, Digital Signatures, Firewalls
 
-### **7. Analytics & Data Science**
-- OLAP vs. OLTP, Data Warehousing, Data Mining
-- Advanced SQL, In-Database Analytics
-
-### **8. Cloud Computing & Data Centers**
-- Virtualization, Cloud Infrastructure, Public/Private/Hybrid Cloud
-- Scalability, Reliability
-
-### **9. Mobile Applications**
-- Mobile OS, App Development, UI Design
-
-### **10. Software Engineering**
-- Agile Development, Software Testing, Project Management
-- SCADA, SLA, Software Quality
-
-### **11. Cyber Security**
-- Threats, Vulnerabilities, Ethical Hacking, IT Act 2000
-- Wi-Fi Security, DoS Attacks, CERT-In, Cyber Laws
-
-### **12. E-Governance & IT Policies**
-- Digital India, Smart Cities, E-Services, Digital Payments
-- IT/ITeS Policies, COBIT5, ERP, CRM
-
-### **13. Government IT Projects**
-- Digitization India Platform, Digital Locker, GI Cloud, E-Kranti
-- Science and Technology Policy of Gujarat
-
-### **14. Emerging Trends in IT**
-- AI, Machine Learning, Blockchain, IoT
-- Quantum Computing, 5G Technology, Robotics
+### **7. Emerging Trends in IT**
+- Artificial Intelligence (AI), Machine Learning (ML)
+- Blockchain, Internet of Things (IoT), 5G Networks
+- Quantum Computing, Robotics, Big Data Analytics
 
 ## Exam PDF Files
 
 Below are the direct links to download the exam syllabus PDFs from the Git repository:
 
-- [ICT Officer, Class-II](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-110-202425.pdf)
 - [Assistant Director (IT, Class-I)](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-108-202425.pdf)
+- [Assistant Director (IT, Class-I) Detail](https://github.com/damku999/goverment-exam/blob/main/PDF/SY-108-202425.pdf)
 - [Deputy Director (IT, Class-I)](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-109-202425.pdf)
-
+- [Deputy Director (IT, Class-I) Detail](https://github.com/damku999/goverment-exam/blob/main/PDF/SY-109-202425.pdf)
+- [ICT Officer, Class-II](https://github.com/damku999/goverment-exam/blob/main/PDF/SLBR-110-202425.pdf)
+- [ICT Officer, Class-II Detail](https://github.com/damku999/goverment-exam/blob/main/PDF/SY-110-202425.pdf)
 
 Click the links to access the respective syllabus documents.
-
