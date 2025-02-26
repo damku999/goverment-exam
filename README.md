@@ -6,66 +6,6 @@
 - **[Assistant Director (IT), Class-1, Science and Technology Department](https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2057&tab=Exam)**
 - **[Deputy Director (IT), Class-1, Science and Technology Department](https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2058&tab=Exam)**
 
-## Part I: General Studies (Common for All Exams)
-
-### **History & Culture**
-- Indus Valley Civilization, Vedic Age, Jainism, and Buddhism
-- Central Asian contacts and their impact
-- Ancient, Medieval, and Modern Indian & Gujarat dynasties, administration, society, and economy
-- Bhakti Movement and Sufism
-- Arrival of Europeans in India, British rule, Revolt of 1857
-- Religious and Social Reform Movements of the 19th century
-- Indian Independence Movement, contribution of revolutionaries
-- Post-independence India & Gujarat
-- Cultural Heritage: Art, Literature, Architecture, Music, Dance
-- Folk Traditions, Festivals, Fairs, Cuisine, Attire
-- Museums, Libraries, and Tourism in Gujarat
-
-### **Indian Polity & Governance**
-- Constitution of India: Features, Amendments, Federal Structure
-- Constitutional and Statutory Institutions
-- Judiciary: Structure, Judicial Review, PIL
-- Local Governance Institutions
-- India’s Foreign Policy, International Organizations
-- Key Policies and Programs of Central and State Governments
-
-### **Logical & Analytical Reasoning**
-- Logical and Analytical Ability
-- Decision Making and Problem Solving
-- General Intellectual Ability
-- Basic Numerical Aptitude
-- Interpretation of Data (Charts, Graphs, Tables, Data Analysis)
-
-### **Indian Economy & Gujarat Economy**
-- Fundamental Economic Concepts
-- Indian Economy Pre-Independence, Economic Planning
-- Agriculture: Crops, Irrigation, Technological Changes, Marketing
-- Industrial Policies, Privatization, FDI, SEZs
-- Infrastructure Development: Power, Telecom, Transport, Water Supply
-- Demographic Trends, Unemployment, Poverty, Economic Disparities
-- Fiscal System: Taxation, Expenditure, Deficit, GST
-- Foreign Trade, India’s BoP, Economic Reforms
-- Gujarat’s Economy: Agriculture, Industry, Services
-
-### **Geography**
-- Physical Geography: Earth’s Structure, Landforms, Climate, Oceans
-- Social Geography: Population, Urbanization, Migration, Economic Activities
-- Economic Geography: Agriculture, Industry, Trade
-- Contemporary Geographical Trends
-
-### **Science & Technology**
-- Role of Science in Daily Life
-- Information and Communication Technology (ICT)
-- Space and Defense Technology: ISRO, DRDO, Missiles, Satellites
-- Energy Needs and Policies
-- India’s Nuclear Policy and International Commitments
-- Environmental Science: Pollution, Climate Change, Biodiversity, Laws
-- Biotechnology, Nanotechnology, Emerging Technologies
-- Research Institutions and their Contributions
-
-### **Current Affairs**
-- Regional, National, and International Events of Importance
-
 ## Part II: Technical Subjects (Detailed)
 
 ### **1. Programming and Data Structures**
@@ -73,7 +13,7 @@
 - Recursion: Concepts, Implementation, Examples
 - Data Structures: Arrays, Stacks, Queues, Linked Lists
 - Trees: Binary Trees, Binary Search Trees, AVL Trees, Heaps
-- Graphs: Representation, BFS, DFS, Minimum Spanning Trees
+- Graphs: Representation, BFS, DFS, Minimum Spanning Trees, Binary Heaps
 
 ### **2. Discrete Mathematics**
 - Propositional and First Order Logic
@@ -83,10 +23,12 @@
 
 ### **3. Algorithms**
 - Analysis of Algorithms: Asymptotic Notation, Space and Time Complexity
+- Worst Case and Average Analysis
 - Divide and Conquer: Merge Sort, Quick Sort
 - Greedy Algorithms: Huffman Coding, Kruskal’s Algorithm
 - Dynamic Programming: Fibonacci, Longest Common Subsequence
-- Graph Algorithms: BFS, DFS, Dijkstra’s Algorithm, Bellman-Ford Algorithm
+- Graph Algorithms: BFS, DFS, Minimum Spanning Tree, Shortest Paths
+- Searching, Sorting, Hashing Algorithms
 
 ### **4. Databases**
 - Database Models: Relational, NoSQL, Hierarchical, Network
@@ -111,10 +53,59 @@
 - Application Layer Protocols: DNS, SMTP, POP, FTP, HTTP
 - Network Security: Authentication, Cryptography, Digital Signatures, Firewalls
 
-### **7. Emerging Trends in IT**
+### **7. Analytics**
+- Descriptive and Predictive Analytics
+- OLAP vs OLTP, Data Warehousing, Data Mining Techniques
+- Data Cube Models: Star, Snowflake, Fact Constellation
+- In-Database Analytics, Advanced SQL Queries
+
+### **8. NoSQL Databases**
+- SQL vs NoSQL, CAP Theorem, BASE Model
+- Document Stores, Key-Value Stores, Columnar Stores
+- Graph Databases, Use Cases
+
+### **9. Data Centre and Cloud Computing**
+- Data Storage, Availability, Management
+- Cloud Infrastructure: Public, Private, Hybrid Clouds
+- Virtualization, Pipelining, Business Scalability, Reliability
+
+### **10. Mobile Application Development**
+- Mobile Platforms: Android, iOS
+- Cellular Technologies: 2G, 3G, 4G, 5G, GSM, CDMA
+- App Development, UI/UX Design, Cross-Platform Tools
+
+### **11. Software Engineering**
+- Software Engineering Principles, Agile Development
+- Software Testing: Unit, Integration, System Testing
+- Project Management: SLA, SCADA, Software Quality Standards
+
+### **12. Cyber Security**
+- Threats, Vulnerabilities, Attacks: Malware, Phishing, Ransomware
+- Data Security, Privacy, Protection Measures
+- Ethical Hacking, Penetration Testing, Incident Response
+- IT Security and Risk Management, CERT-In Roles
+- National Cyber Security Policy-2013, Cyber Laws, IT Act 2000
+
+### **13. E-Governance & IT Policies**
+- Digital India: G2G, C2C, C2B, C2G, B2C Models
+- Collaborative APIs, Electronic Data Interchange (EDI)
+- Enterprise Resource Planning (ERP), Citizen Relationship Management (CRM)
+- IT/ITeS Usage Policies, COBIT5 Framework
+- Smart Cities, e-Utilities, Digital Payments, Public Safety
+
+### **14. Government IT Projects**
+- Mission Mode Projects, Digitization India Platform (DIP)
+- Digital Locker, GI CLOUD (MEGHARAJ), E-KRANTHI
+- E-Governance Policies and Programs
+- Gujarat IT/ITeS Policy 2022-27
+- Science, Technology, and Innovation Policy of Gujarat
+- Legislative Framework in IT Sector
+
+### **15. Emerging Trends in IT**
 - Artificial Intelligence (AI), Machine Learning (ML)
 - Blockchain, Internet of Things (IoT), 5G Networks
 - Quantum Computing, Robotics, Big Data Analytics
+- Cyber-Physical Systems, Edge Computing
 
 ## Exam PDF Files
 
